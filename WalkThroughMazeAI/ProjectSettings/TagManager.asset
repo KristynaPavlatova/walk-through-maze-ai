@@ -8,6 +8,7 @@ TagManager:
   - floor
   - goal
   - start
+  - cube
   layers:
   - Default
   - TransparentFX
