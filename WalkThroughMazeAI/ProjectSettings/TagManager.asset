@@ -9,6 +9,7 @@ TagManager:
   - goal
   - start
   - cube
+  - agentManager
   layers:
   - Default
   - TransparentFX
